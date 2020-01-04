@@ -1,0 +1,3 @@
+ample text files and archives download ... A ZIP file (Zipped File)
+is an archive that contains
+one or more files compressed or “zipped” using Zip compression.
